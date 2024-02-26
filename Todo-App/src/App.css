@@ -1,0 +1,12 @@
+input{
+  width: 100%;
+}
+
+.m-row{
+  margin: 10px 5px;
+}
+
+.add-dlt-btn{
+  min-width: 75px;
+  font-weight: 700;
+}
